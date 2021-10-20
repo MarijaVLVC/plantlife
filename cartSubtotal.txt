@@ -1,0 +1,110 @@
+/* ============== COUPONEs =============  */
+function Coupone() {
+    let coupones = [];
+    
+    
+    function getCoupone() {
+        ajaxCallbackWithUrl('../data/cupones.json', function(data) {
+            coupones = data;
+        });
+    }
+    
+    // Enter Coupone into List
+    function enterCouponesInDDL() {
+
+        let enterCoupone =  `<span class="selectArrow"></span>
+        <select id="cuponeCode">
+        <option value="1">Select Coupone</option>`;
+    
+        coupones.forEach(coupone => {
+            enterCoupone += writeCouponeInDDL(coupone);
+        })
+        enterCoupone += `</select>`;
+        $('.select-holder').html(enterCoupone)
+           
+        //Calling the function on change in the DDl
+        $('#cuponeCode').change(function(){
+            returnSelectedValue()
+            getTheSelectedCouponeValue()
+        });
+    }
+    
+    function writeCouponeInDDL(coupone) {
+        return `<option value="${coupone.couponeDiscount}" data-password="${coupone.password}">${coupone.couponeName}</option>`;
+    }
+    
+    function returnSelectedValue() {
+        let couponeDDl = document.querySelector('#cuponeCode');
+        var chosenCoupone =  couponeDDl.options[couponeDDl.selectedIndex].value;
+        return chosenCoupone;
+    }
+
+//Select Value from Coupone DDL
+    function getTheSelectedCouponeValue() {
+        var chosenCoupone = $(this).children("option:selected");
+
+        //Calling functions that need to execute on a changed selected value
+        getCouponeDiscountWritten(chosenCoupone);
+        calculateSubtotalWithCoupone(chosenCoupone)
+
+       return chosenCoupone;
+    } 
+
+    //Writte Discount Number in subtotal section of cart
+function getCouponeDiscountWritten(chosenCoupone) {
+    let chosenCouponeVal = parseInt(chosenCoupone.val());
+    let chosenCouponePass = chosenCoupone.data('password')
+
+
+//console.log(chosenCouponeVal,chosenCouponePass )
+//Show only the ones without password required
+    if(!chosenCouponePass && (chosenCouponeVal > 1)) {
+        let couponePrecentNumber =  `Coupone Discount: <span class="shippingPrice">${chosenCouponeVal}%</span>`;
+        $('#cuponeInput').css('display', 'none')
+        $('#couponeDiscount').html(couponePrecentNumber)  
+    } else if(chosenCouponePass && (chosenCouponeVal > 1)){
+        //Add the even to the input to check if it's a match for a coupone password
+        $('#cuponeInputPassword').keyup(function() {
+            checkIfThePasswordForCouponeMatch(chosenCouponeVal)
+        })
+
+        $('#cuponeInput').css('display', 'block')
+        $('#couponeDiscount').html('')
+    } else {
+        $('#couponeDiscount').html('')
+        $('#cuponeInput').css('display', 'none')
+    }
+    
+}
+
+function checkIfThePasswordForCouponeMatch(chosenCouponeVal) {
+    let couponePasswordInput = $('#cuponeInputPassword').val();
+
+    coupones.forEach(password => {
+        if(password.passwordCode.couponeKey == couponePasswordInput) {
+            let couponePrecentNumber =  `Coupone Discount: <span class="shippingPrice">${chosenCouponeVal}%</span>`;
+            $('#couponeDiscount').html(couponePrecentNumber)
+
+            //Show the message
+            $('#couponePassError').css('display', 'none')
+            
+        } else {
+            $('#couponeDiscount').html('')
+            $('#couponePassError').css('display', 'block')
+        }
+    })
+}
+ /*function calculateCouponeDiscount(){
+    var chosenCoupone = $(this).val();
+   
+        if(chosenCoupone != 1) {
+            
+            return (parseFloat() * parseFloat(chosenCoupone.value)) / 100;
+        }
+}*/
+    
+
+    return {
+        getCoupone, enterCouponesInDDL, returnSelectedValue, calculateSubtotalWithCoupone
+    }
+}
