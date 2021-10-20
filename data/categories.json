@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "categoryName": "Plants",
+        "categoryImage": "../images/categoryPlant.jpg"
+    },
+    {
+        "id": 2,
+        "categoryName":"Pots",
+        "categoryImage": "../images/categoryPot.jpg"
+    },
+    {
+        "id": 3,
+        "categoryName": "Pot Holders",
+        "categoryImage": "../images/categoryHolder.jpg"
+    },
+    {
+        "id": 4,
+        "categoryName": "Sets",
+        "categoryImage": "../images/categorySets.jpg"
+    }
+]

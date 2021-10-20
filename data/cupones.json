@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "couponeName": "Daily Discount",
+        "couponeDiscount": "5",
+        "password": false,
+        "passwordCode": {
+            "id": "",
+            "couponeKey":""
+        }
+    },
+    {
+        "id": 2,
+        "couponeName": "First Time Buyer 20 percent discount",
+        "couponeDiscount": "20",
+        "password": false,
+        "passwordCode": {
+            "id": "",
+            "couponeKey":""
+        }
+    },
+    {
+        "id": 3,
+        "couponeName":"Gift Coupone 30",
+        "couponeDiscount": "30",
+        "password": true,
+        "passwordCode": {
+            "id": 1,
+            "couponeKey":"idFromIdCouponeBougth+Coupone1"
+        }
+    },
+    {
+        "id": 4,
+        "couponeName":"Gift Coupone 50",
+        "couponeDiscount": "50",
+        "password": true,
+        "passwordCode": {
+            "id": 1,
+            "couponeKey":"idFromIdCouponeBougth+Coupone2"
+        }
+    },
+    {
+        "id": 5,
+        "couponeName":"Gift Coupone 70",
+        "couponeDiscount": "70",
+        "password": true,
+        "passwordCode": {
+            "id": 1,
+            "couponeKey":"idFromIdCouponeBougth+Coupone3"
+        }
+    },
+    {
+        "id": 6,
+        "couponeName":"Coupones from another site",
+        "couponeDiscount": "20",
+        "password": true,
+        "passwordCode": {
+            "id": 2,
+            "couponeKey":"simpleWord"
+        }
+    }
+]

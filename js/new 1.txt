@@ -1,0 +1,183 @@
+
+ // Getting the page name and calling functions based on the page thaht user is on
+
+ var getPage = document.URL.split("/");
+ var pageName = getPage[getPage.length - 1];
+ 
+window.onload = function() {
+
+   
+
+    // Calling the function for regular expression on the register page
+    if(pageName == "register.html") {
+        document.querySelector("#registerBtn").addEventListener('click', checkRegisterPage);
+        document.querySelector("#userConfirmPassword").addEventListener('blur', checkConfirmPassword);
+        document.querySelector("#registerBtn").addEventListener('click', chekEmailPassword);
+            // Check password and email
+    } else if(pageName == "login.html") {
+        document.querySelector("#loginBtn").addEventListener('click', chekEmailPassword);
+    } else if(pageName == "forgot_password.html") {
+        document.querySelector("#forgotBtn").addEventListener('click', checkEmail);
+    } else if (pageName == "index.html" || pageName == "contact.html") {
+        document.querySelector("#btnNewsletter").addEventListener('click', checkEmail);
+    } else if (pageName == "contact.html") {
+        document.querySelector("#contactBtn").addEventListener('click', checkRegisterPage);
+    }
+
+
+
+}// End of window.onload
+
+var arrayError = [];
+  var arrayOk = []; 
+
+function checkRegisterPage() {
+   // Get elements
+  var userName, userLastname, agreeTerms, regUserName, regUserLastname;
+  
+
+  //Getting users input
+  userName = document.querySelector("#userName").value.trim();
+  userLastname = document.querySelector("#userLastname").value.trim();
+  agreeTerms = document.querySelector("#agreeTerms").checked;
+
+
+
+//Checking users input with Regular Expressions
+  regUserName = /^[A-Z][a-z]{2,14}(\s[A-Z][a-z]{2,14})?$/;
+  regUserLastname = /^[A-Z][a-z]{2,14}$/;
+  
+  // Getting elements for writting mistakes
+
+
+  // Comparing data with regular expressions
+    if (!regUserName.test(userName)) {
+        document.querySelector("#nameError .errorMsg").innerHTML = "Name is not entered correctly";
+        document.querySelector("#nameError").style.display = "block";
+        arrayError.push('Name is not entered correctly');	
+    } else {
+        document.querySelector("#nameError .errorMsg").innerHTML = "";
+        document.querySelector("#nameError").style.display = "none";
+        arrayOk.push(userName);
+        
+    }
+
+    if (!regUserLastname.test(userLastname)) {
+        document.querySelector("#lastnameError .errorMsg").innerHTML = "Lastname is not entered correctly";
+        document.querySelector("#lastnameError").style.display = "block";
+        arrayError.push('Lastname is not entered correctly');	
+    } else {
+        document.querySelector("#lastnameError .errorMsg").innerHTML = "";	
+        document.querySelector("#lastnameError").style.display = "none";
+        arrayOk.push(userLastname);	
+    }
+
+
+// Checking if the Terms are checked
+    if(!agreeTerms) {
+        document.querySelector("#termsError p").innerHTML = "You didn't agree with our terms and policies";
+        document.querySelector("#termsError").style.display = "block";
+        arrayError.push("You didn't agree with our terms and policies");
+    } else {
+        document.querySelector("#termsError p").innerHTML = "";
+        document.querySelector("#termsError").style.display = "none";
+        arrayOk.push(agreeTerms);
+    }
+
+    checkEmail();
+    if (pageName == "contact.html") {
+        checkMessage();
+    }
+
+
+
+/* Going though data */
+if(arrayError != 0) {
+    console.log("Data is not valid");
+} else {
+    if(checkEmail)
+    {
+        arrayOk.push(userEmail.value)
+        console.log(arrayOk)
+    }
+    localStorage.setItem('registeredUser', JSON.stringify(arrayOk));
+    $('.fullSectionBody-body').html("You have been successfully registered.");
+   var readRegisteredUser = JSON.parse(localStorage.getItem('registeredUser'));
+console.log(readRegisteredUser);
+}
+ 
+
+}
+
+function checkConfirmPassword() {
+    let isValid = false;
+    var  userConfirmPassword, userPassword;
+    
+    userPassword = document.querySelector("#userPassword").value;
+    userConfirmPassword = document.querySelector("#userConfirmPassword").value;
+
+    
+   if(userPassword != userConfirmPassword) {
+        document.querySelector("#userConfirmError .errorMsg").innerHTML = "Your password and confirmed password don't match";
+        document.querySelector("#userConfirmError").style.display = "block";
+        isValid = false;
+    } else {
+        document.querySelector("#userConfirmError .errorMsg").innerHTML = "";
+        document.querySelector("#userConfirmError").style.display = "none";
+        isValid = true;
+    }
+    return isValid;
+}
+
+function checkEmail(userEmail) {
+    let isValid = false;
+    var userEmail, regEmail;
+
+    userEmail = document.querySelector("#userEmail").value;
+    regEmail =  /^[a-z$.-_0-9]+\@[a-z.-_]+\.[a-z.]+$/;
+
+    if (!regEmail.test(userEmail)) {
+        document.querySelector("#emailError .errorMsg").innerHTML = "Email is not entered correctly";
+        document.querySelector("#emailError").style.display = "block";
+        isValid = false;
+    } else {
+        document.querySelector("#emailError .errorMsg").innerHTML = "";
+        document.querySelector("#emailError").style.display = "none";
+        isValid = true;	
+    }
+  return userEmail;
+}
+
+function chekEmailPassword(userPassword) {
+    let isValid = false;
+    var userPassword = document.querySelector("#userPassword").value;
+    var regPass = /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[^\w\s]).{8,}$/;
+
+    if(!regPass.test(userPassword)) {
+        document.querySelector("#passwordError .errorMsg").innerHTML = "Passwords must contain at least six characters, including uppercase, lowercase letters and numbers.";
+        document.querySelector("#passwordError").style.display = "block";
+        
+        
+    } else {
+        document.querySelector("#passwordError .errorMsg").innerHTML = "";
+        document.querySelector("#passwordError").style.display = "none";
+        isValid = true;
+    }
+
+
+    checkEmail(userEmail);
+return userPassword;
+
+}
+function checkMessage() {
+    var message = document.querySelector("#contactMessage").value.trim();
+    var regMessage = /^[A-Z]([a-z\s""'',-_.])+$/;
+
+    if (!regMessage.test(message)) {
+        document.querySelector("#messageError .errorMsg").innerHTML = "Message is not entered correctly";
+        document.querySelector("#messageError").style.display = "block";
+	} else {
+		document.querySelector("#messageError .errorMsg").innerHTML = "";
+        document.querySelector("#messageError").style.display = "none";
+	}
+}

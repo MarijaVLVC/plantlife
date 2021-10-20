@@ -1,0 +1,2073 @@
+[
+    {
+       "id":1,
+       "productName":"Decorating Herb Plant with White Round Plant Pot",
+       "productImage":"../images/products/product-thumbs/p1.jpg",
+       "productDescription":"Decorating Herb Plant with 2.5 Inch Ceramic White Round Simple Design succulent Plant Pot/Cactus Plant Pot Flower Pot with FREE Bamboo Tray/Container/Planter White",
+       "fullDescription":"Mini Ceramic Plant Pot - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom, Pack with Bamboo Tray. Dimension: 6.5 x 6.5 x 5.2cm  2.5 x 2.5 x 2inch (L x W x H). Plant is included",
+       "price":{
+          "newPrice":7,
+          "oldPrice":8
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":1,
+             "imagePath":"../images/products/product-thumbs/pt1.1.jpg"
+          },
+          {
+             "id":2,
+             "imagePath":"../images/products/product-thumbs/pt1.2.jpg"
+          }
+       ],
+       "productComments":2,
+       "productRating":3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":2,
+       "productName":"Decorating Herb Plant with White Ceramic Hexagon Pots",
+       "productImage":"../images/products/product-thumbs/p2.jpg",
+       "productDescription":"Decorating Herb Plant with 2.5 inch White Ceramic Hexagon Succulent Cactus Planter Pots and FREE Bamboo Tray ",
+       "fullDescription":"Small Ceramic Plant Pot - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Pack of 1; Dimension: 7.2 x 6.3 x 4.9cm / 2.75 x 2.5 x 2inch (L x W x H). Plant is included",
+       "price":{
+          "newPrice":7,
+          "oldPrice":8
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":3,
+             "imagePath":"../images/products/product-thumbs/pt2.1.jpg"
+          },
+          {
+             "id":4,
+             "imagePath":"../images/products/product-thumbs/pt2.2.jpg"
+          }
+       ],
+       "productComments":2,
+       "productRating":3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":3,
+       "productName":"Decorating Red Plant with Ceramic White Square Plant Pot",
+       "productImage":"../images/products/product-thumbs/p3.jpg",
+       "productDescription":"Decorating Red Plant with 3.5 Inch Ceramic White Square NO.1 succulent Plant Pot/Cactus Plant Pot with FREE Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pot - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Pack of 1; Dimension: 8.5 x 8.5 x 5.5cm / 3.3 x 3.3 x 2.15inch (L x W x H). Plant is included.",
+       "price":{
+          "newPrice":9,
+          "oldPrice":12
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":5,
+             "imagePath":"../images/products/product-thumbs/pt3.1.jpg"
+          },
+          {
+             "id":6,
+             "imagePath":"../images/products/product-thumbs/pt3.3.jpg"
+          }
+       ],
+       "productComments":1,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":4,
+       "productName":"Decorating Herb Plant with White Jar Shape Design Plant Pot",
+       "productImage":"../images/products/product-thumbs/p4.jpg",
+       "productDescription":"Decorating Herb Plant with 2.75 Inch Ceramic White Jar Shape Design succulent Plant Pot, Cactus Plant Pot Flower Pot with FREE Bamboo Tray/Container/Planter White",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Dimension: 7 x 7 x 5.1cm / 2.75 x 2.75 x 2inch (L x W x H). Plant is included.",
+       "price":{
+          "newPrice":10.5,
+          "oldPrice":12
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":7,
+             "imagePath":"../images/products/product-thumbs/pt4.1.jpg"
+          },
+          {
+             "id":8,
+             "imagePath":"../images/products/product-thumbs/pt4.2.jpg"
+          }
+       ],
+       "productComments":2,
+       "productRating":3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":5,
+       "productName":"Decorating Plant with Ceramic White Round Simple Design succulent Plant Pot",
+       "productImage":"../images/products/product-thumbs/p5.jpg",
+       "productDescription":"Decorating Plant with 3.5 Inch Ceramic White Round Simple Design succulent Plant Pot/Cactus Plant Pot with FREE Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 1; Dimension: 8.5 x 8.5 x 6.9cm / 3.3 x 3.3 x 2.7inch (L x W x H). Plant is included",
+       "price":{
+          "newPrice":7.39,
+          "oldPrice":10
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":9,
+             "imagePath":"../images/products/product-thumbs/pt5.1.jpg"
+          },
+          {
+             "id":10,
+             "imagePath":"../images/products/product-thumbs/pt5.2.jpg"
+          }
+       ],
+       "productComments":2,
+       "productRating":4.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":6,
+       "productName":"Decorating Plant with White Ceramic Succulent Planter Pot",
+       "productImage":"../images/products/product-thumbs/p6.jpg",
+       "productDescription":"Decorating Plant with 3.2 Inch Ceramic White Succulent Planter Pot, Modern Cute Small Cactus Herb Flower Planters Set with FREE Bamboo Tray",
+       "fullDescription":"SMALL AND PERFECTLY FORMED. Each planter pot measures 3.2Inch diameter X 3Inch tall, and features a drainage hole and bamboo tray. GREAT FOR HOME DECOR. Modern minimalist design and its clean lines are greatly suitable for decorating your windowsill, desktop, kitchen, bathroom, office and bedroom. PERFECTLY DISPLAYS LIVE POTTED PLANTS.Modern white planters set perfect for succulent or fake succulent,small cactus,herb and flower,no concerns to put indoor or outdoor. -EXCELLENT GIFTS.Material-made of ceramic,beautiful and stylish design,easy to store and clean,these planters pot make an excellent gift for succulent lovers. Plants is included in the price.",
+       "price":{
+          "newPrice":7.95,
+          "oldPrice":9.95
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":11,
+             "imagePath":"../images/products/product-thumbs/pt6.1.jpg"
+          },
+          {
+             "id":12,
+             "imagePath":"../images/products/product-thumbs/pt6.2.jpg"
+          }
+       ],
+       "productComments":5,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":7,
+       "productName":"Decorating Plant with Ceramic White Misalignment Traiangle Design",
+       "productImage":"../images/products/product-thumbs/p7.jpg",
+       "productDescription":"Decorating Plant with 3 Inch Ceramic White Misalignment Traiangle Design succulent Plant Pot/Cactus Plant Pot With Bamboo Tray ",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 1; Dimension: 8 x 8 x 4.9cm / 3.15 x 3.15 x 1.9inch (L x W x H).",
+       "price":{
+          "newPrice":7.95,
+          "oldPrice":9.95
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":13,
+             "imagePath":"../images/products/product-thumbs/pt7.1.jpg"
+          },
+          {
+             "id":14,
+             "imagePath":"../images/products/product-thumbs/pt7.2.jpg"
+          }
+       ],
+       "productComments":19,
+       "productRating":4.1,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":8,
+       "productName":"Decorating Plant with Ceramic White Mini Square Plant Pot",
+       "productImage":"../images/products/product-thumbs/p8.jpg",
+       "productDescription":"Decorating Plant 2 Inch Ceramic White Mini Square Sucuulent Plant Pot/Cactus Plant Pot With Bamboo Tray ",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Dimensions: 5.3 x 5.3 x 4.2cm / 2.1 x 2.1 x 1.6inch (L x W x H). Plant is included.",
+       "price":{
+          "newPrice":11,
+          "oldPrice":12.86
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":15,
+             "imagePath":"../images/products/product-thumbs/pt8.1.jpg"
+          },
+          {
+             "id":16,
+             "imagePath":"../images/products/product-thumbs/pt8.2.jpg"
+          }
+       ],
+       "productComments":8,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":9,
+       "productName":"Creative gardening pony flower POT White Ceramic",
+       "productImage":"../images/products/product-thumbs/p9.jpg",
+       "productDescription":"Creative gardening pony flower POT White Ceramic Fleshy Small Flowerpot Table Plant Pot Culture Flower Pot Home Decoration",
+       "fullDescription":"Creative design flowerpot, suitable for planting succulents, bryophytes, A touch of green on the desktop. Perfect for office, home, shopping mart, hotel, bar, balcony garden, home gardening decorations. Well-arranged, larger planting space. Miniature landscape for succulent decoration. Succulent Plant included in the price. Material: Ceramic, Color: White, Size: 9.6cm x 12.8cm x 6.8cm",
+       "price":{
+          "newPrice":9.28,
+          "oldPrice":13.26
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":17,
+             "imagePath":"../images/products/product-thumbs/pt9.1.jpg"
+          },
+          {
+             "id":18,
+             "imagePath":"../images/products/product-thumbs/pt9.2.jpg"
+          }
+       ],
+       "productComments":20,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":10,
+       "productName":"13CM Polar Bear, Small Herb Container Plant Pot with decorative plant",
+       "productImage":"../images/products/product-thumbs/p10.jpg",
+       "productDescription":"Succulent Plant Pot Cactus Ceramic Planter with Bamboo Tray - 13CM Polar Bear, Small Herb Container White Animal Window Box Decorative Ornament",
+       "fullDescription":"Small Ceramic Plant Pot - Perfect for holding miniature succulent, herbs, moss and cactus plants, etc. Indoor Use - Ideal for windowsill and office desktop table decoration; Perfect Gift for Party, Wedding, Birthday, Christmas, etc. Practical Design - Two small Hole on the bottom for draining; Comes with durable Bamboo Trays for keeping clean. Dimension: 13 x 6 x 7.7cm ( L x W x H. Note: Plants is included in the price.",
+       "price":{
+          "newPrice":9.95,
+          "oldPrice":12.95
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":19,
+             "imagePath":"../images/products/product-thumbs/pt10.1.jpg"
+          },
+          {
+             "id":20,
+             "imagePath":"../images/products/product-thumbs/pt10.2.jpg"
+          }
+       ],
+       "productComments":9,
+       "productRating":4.8,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":11,
+       "productName":"Decorating Porcelain Flowerpot Mini Cube Succulent Plant Pots Ceramic Flower",
+       "productImage":"../images/products/product-thumbs/p11.jpg",
+       "productDescription":"Decorating Porcelain Flowerpot Mini Cube Succulent Plant Pots Ceramic Flower Pot Bonsai Planters White Environmental Protection Potted Pot",
+       "fullDescription":"Indoor And Outdoor Flower Pots: Simple shape of exhibition space add size and visual diversity for outdoor space, and turn your beautiful garden and room into a natural plant paradise full of space crisscross and rich sense. Suitable for : Succulent plants, narcissus, cactus, roses, lilies, tulips, daisies and so on. High quality: Pure hand-made flower pots is made of Resin. Total L * H * W 6 * 6 * 6.5cm, Bold and thicker materials and more texture foot design make plant stand more stable. Easy assembly: includes assembly materials and instructions - assembly can be completed in just a few easy steps!",
+       "price":{
+          "newPrice":0,
+          "oldPrice":12.52
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":21,
+             "imagePath":"../images/products/product-thumbs/pt11.1.jpg"
+          },
+          {
+             "id":22,
+             "imagePath":"../images/products/product-thumbs/pt11.2.jpg"
+          }
+       ],
+       "productComments":25,
+       "productRating":4.3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":12,
+       "productName":"6.5 Inch Ceramic White Rectangle Plant Pot with devorative plant",
+       "productImage":"../images/products/product-thumbs/p12.jpg",
+       "productDescription":"6.5 Inch Ceramic White Rectangle succulent Plant Pot/Cactus Plant Pot With FREE Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 1; Dimension: 16.5 x 8.9 x 5.9cm / 6.5 x 3.5 x 2.3inch (L x W x H). Note: Plants is included in the price.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":13.95
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":23,
+             "imagePath":"../images/products/product-thumbs/pt12.1.jpg"
+          },
+          {
+             "id":24,
+             "imagePath":"../images/products/product-thumbs/pt12.2.jpg"
+          }
+       ],
+       "productComments":34,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":13,
+       "productName":"Decorating Plant with 6.5 Inch Ceramic White Modern Oval Design Plant Pot",
+       "productImage":"../images/products/product-thumbs/p13.jpg",
+       "productDescription":"Decorating Plant with 6.5 Inch Ceramic White Modern Oval Design succulent Plant Pot/Cactus Plant Pot With Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 1; Dimension: 16.9 x 8.5 x 5.5cm / 6.6 x 3.3 x 2.15inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":11.95
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":25,
+             "imagePath":"../images/products/product-thumbs/pt13.1.jpg"
+          },
+          {
+             "id":26,
+             "imagePath":"../images/products/product-thumbs/pt13.2.jpg"
+          }
+       ],
+       "productComments":41,
+       "productRating":3.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":14,
+       "productName":"3.25inch Wave Ripple Square Sucuulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes with Small Hole White",
+       "productImage":"../images/products/product-thumbs/p14.jpg",
+       "productDescription":"3.25 inch Wave Ripple Square Sucuulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes with Small Hole White",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 1; Dimension: 9.8 x 9.8 x 8cm / 3.85 x 3.85 x 3.15inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":27,
+             "imagePath":"../images/products/product-thumbs/pt14.1.jpg"
+          },
+          {
+             "id":28,
+             "imagePath":"../images/products/product-thumbs/pt14.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":15,
+       "productName":"2.75 Inch Ceramic White Cylinder Plant Pot with decorative plant",
+       "productImage":"../images/products/product-thumbs/p15.jpg",
+       "productDescription":"2.75 Inch Ceramic White Cylinder succulent Plant Pot/Cactus Plant Pot With Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 1; Dimension: 7 x 7 x 9.5cm / 2.75 x 2.75 x 3.7inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":15.86
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":29,
+             "imagePath":"../images/products/product-thumbs/pt15.1.jpg"
+          },
+          {
+             "id":30,
+             "imagePath":"../images/products/product-thumbs/pt15.2.jpg"
+          }
+       ],
+       "productComments":7,
+       "productRating":4.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":16,
+       "productName":"9.9CM White Ceramic Contemporary Ripple Surface Plant Pot with decorative plant",
+       "productImage":"../images/products/product-thumbs/p16.jpg",
+       "productDescription":"9.9CM White Ceramic Contemporary Ripple Surface Succulent Plant Pot/Cactus Plant Pot Container with Hexagon Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herb and cactus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Housewarming, Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Dimension: 9.9 x 9.9 x 5 cm (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":31,
+             "imagePath":"../images/products/product-thumbs/pt16.1.jpg"
+          },
+          {
+             "id":32,
+             "imagePath":"../images/products/product-thumbs/pt16.2.jpg"
+          }
+       ],
+       "productComments":12,
+       "productRating":4.6,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":17,
+       "productName":"3.6 Inch White Ceramic Contemporary Lozenge Pattern Plant Pot with decorative plant and Hexagon Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/p17.jpg",
+       "productDescription":"3.6 Inch White Ceramic Contemporary Lozenge Pattern Succulent Plant Pot/Cactus Plant Pot Container with Hexagon Bamboo Tray ",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herb and cactus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Housewarming, Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Pack of 2; Dimension: 3.6 x 3.6 x 2.2 inch / 9.2 x 9.2 x 5.7 cm (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":17.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":33,
+             "imagePath":"../images/products/product-thumbs/pt17.1.jpg"
+          },
+          {
+             "id":34,
+             "imagePath":"../images/products/product-thumbs/pt17.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":18,
+       "productName":"3.75 Inch Ceramic White Square NO.2 Plant Pot With decorative plant and Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/p18.jpg",
+       "productDescription":"3.75 Inch Ceramic White Square NO.2 Suculent Plant Pot/Cactus Plant Pot With Bamboo Tray Package",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 2; Dimension: 9.7 x 9.7 x 6.5cm / 3.8 x 3.8 x 2.5inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":20.06
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":35,
+             "imagePath":"../images/products/product-thumbs/pt18.1.jpg"
+          },
+          {
+             "id":36,
+             "imagePath":"../images/products/product-thumbs/pt18.2.jpg"
+          }
+       ],
+       "productComments":12,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":19,
+       "productName":"6.5 Inch Ceramic White Rectangle Plant Pot With Bamboo Tray Package and decorative plant",
+       "productImage":"../images/products/product-thumbs/p19.jpg",
+       "productDescription":"6.5 Inch Ceramic White Rectangle Sucuulent Plant Pot/Cactus Plant Pot With Bamboo Tray Package",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 2; Dimension: 16.5 x 8.9 x 5.9cm / 6.5 x 3.5 x 2.3inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":29.86
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":37,
+             "imagePath":"../images/products/product-thumbs/pt19.1.jpg"
+          },
+          {
+             "id":38,
+             "imagePath":"../images/products/product-thumbs/pt19.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":20,
+       "productName":"7 inch Geometric Minimalist White Ceramic Plant Holder",
+       "productImage":"../images/products/product-thumbs/p20.jpg",
+       "productDescription":"7 inch Geometric Minimalist White Ceramic Succulent Planter Pot / Decorative Plant Holder",
+       "fullDescription":"Minimalistic home for potted plants, flowers, succulents and more. Medium size is perfect for table type plants. 7 inch simple yet modern design adds a classic style to your indoor space or table top. The white stands out from clutter. Size dimension(cm): L20*W15*H7",
+       "price":{
+          "newPrice":0,
+          "oldPrice":18
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":39,
+             "imagePath":"../images/products/product-thumbs/pt20.1.jpg"
+          },
+          {
+             "id":40,
+             "imagePath":"../images/products/product-thumbs/pt20.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":21,
+       "productName":"Japanese Blue Plant Pot with Succulent Cactus Style decorative plant",
+       "productImage":"../images/products/product-thumbs/p21.jpg",
+       "productDescription":"Japanese Blue Plant Pot Succulent Cactus Style Ceramic Pots Flower Planter",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants.Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Dimension: 10 x 10 x 5.7cm / 3.9 x 3.9 x 2.2inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":12.99
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":41,
+             "imagePath":"../images/products/product-thumbs/pt21.1.jpg"
+          },
+          {
+             "id":42,
+             "imagePath":"../images/products/product-thumbs/pt21.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":4.8,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":22,
+       "productName":"Ceramic White oblate Succulent Design Plant Pot with decoraative plan",
+       "productImage":"../images/products/product-thumbs/p22.jpg",
+       "productDescription":"3.25 Inch Ceramic White oblate Plant Pot Cactus Plant Pot Flower Pot ",
+       "fullDescription":": Small Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Frame. Dimension: 8 x 6.5 x 4cm.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":12.65
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":43,
+             "imagePath":"../images/products/product-thumbs/pt22.1.jpg"
+          },
+          {
+             "id":44,
+             "imagePath":"../images/products/product-thumbs/pt22.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":23,
+       "productName":"White Ceramic Round Plant Pot with decorative succulent plant",
+       "productImage":"../images/products/product-thumbs/p23.jpg",
+       "productDescription":"9,5cm White Ceramic Round Plant Pot with decorative succulent plant",
+       "fullDescription":"Round Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Dimension: 9.5 x 6 x 6.5cm (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":13.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":45,
+             "imagePath":"../images/products/product-thumbs/pt23.1.jpg"
+          },
+          {
+             "id":46,
+             "imagePath":"../images/products/product-thumbs/pt23.2.jpg"
+          }
+       ],
+       "productComments":24,
+       "productRating":4.1,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":24,
+       "productName":"Ceramic Succulent Plant Pot with Bamboo Tray and decorative bonsai plant",
+       "productImage":"../images/products/product-thumbs/p24.jpg",
+       "productDescription":"Ceramic Succulent Cactus Planter Plant Pot with Bamboo Tray, Summer Trio Green, Home and Office Desktop Windowsill Bonsai Decoration ",
+       "fullDescription":"Small Ceramic Planter, Perfect for holding miniature succulent, herbs and cactus plants.Indoor Use, Ideal decoration for windowsill and office table; Perfect Gift for Wedding, Birthday, Christmas, etc. Pack with durable Bamboo Trays; A small Hole on the Bottom for draining. Pack of 1; Pot Dimension: 2.9inch x 2.9inch x 2.7inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":13.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":47,
+             "imagePath":"../images/products/product-thumbs/pt24.1.jpg"
+          },
+          {
+             "id":48,
+             "imagePath":"../images/products/product-thumbs/pt24.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":25,
+       "productName":"Modern Style Marbling Ceramic Flower Pot with decorative plant",
+       "productImage":"../images/products/product-thumbs/p25.jpg",
+       "productDescription":"Modern Style Marbling Ceramic Flower Pot Succulent/Cactus Planter Pots Container Bonsai Planters with Hole 3.35 inch Perfect Gife Idea",
+       "fullDescription":"Perfect gift for family and friends who love succulent plants with a green thumb or keep it in your own home for a touch of clean, modern style in your living space. Material:Ceramic(Made of top-quality clay and baked in high temperatures);Package content: 4 pcs*Pot. Approximate Size: 3.35 x 3.35 x 2.56 inch (L x W x H).Planting caliber:2.5 inch. A simple and sleek contemporary petite Beautifully with elegant, attractive color plant pot.Gardening props, suitable for decorative gardening,desk,bookshelf,dinning table,living room,hosting room and everywhere. Decorations and plants are not included,color may vary.Order it now!Decorate your home easily.Perfect choice of home decorations and will Display them individually or as a collection for an eclectic feel.You and your family will love and enjoy in these colorful pot home decorations.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":49,
+             "imagePath":"../images/products/product-thumbs/pt25.1.jpg"
+          },
+          {
+             "id":50,
+             "imagePath":"../images/products/product-thumbs/pt25.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":26,
+       "productName":"8.5CM Ceramic Modern Pumpkin Design Plant Pot with Bamboo Tray and decorative plant",
+       "productImage":"../images/products/product-thumbs/p26.jpg",
+       "productDescription":"8.5CM Ceramic Modern Pumpkin Design Succulent Plant Pot Cactus Plant Pot Container with Bamboo Tray, Matte White",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding miniature succulent, herb and cactus plants. Pumpkin Design - Ideal for windowsill and office table decoration; Perfect Gift for Housewarming, Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Dimension: 8.5 x 8.5 x 5.5 cm (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":13.94
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":51,
+             "imagePath":"../images/products/product-thumbs/pt26.1.jpg"
+          },
+          {
+             "id":52,
+             "imagePath":"../images/products/product-thumbs/pt26.2.jpg"
+          }
+       ],
+       "productComments":54,
+       "productRating":4.5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":27,
+       "productName":"Matt white Ceramic Hexagonal Pattern Semi-Luster Surface Plant Pot with decorative plant",
+       "productImage":"../images/products/product-thumbs/p27.jpg",
+       "productDescription":"Ceramic Hexagonal Pattern Semi-Luster Surface succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter Matt white",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Dimension: 9.5 x 8.8 x 6.5cm / 3.75 x 3.45 x 2.5inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":24.96
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":53,
+             "imagePath":"../images/products/product-thumbs/pt27.1.jpg"
+          },
+          {
+             "id":54,
+             "imagePath":"../images/products/product-thumbs/pt27.2.jpg"
+          }
+       ],
+       "productComments":42,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":28,
+       "productName":"Bunny Rabbit Design Ceramic Plant Pot",
+       "productImage":"../images/products/product-thumbs/p28.jpg",
+       "productDescription":"Bunny Rabbit Design Ceramic Succulent Plant Pot/Cactus Flower Pots Container Porcelain Holder Planter Decoration with Round Tray",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding miniature succulent, herb and cactus plants. Bunny Rabbit design - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Porcelain Tray. Dimension: 9.8 x 7.7 x 9.9 cm (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":26.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":55,
+             "imagePath":"../images/products/product-thumbs/pt28.1.jpg"
+          },
+          {
+             "id":56,
+             "imagePath":"../images/products/product-thumbs/pt28.2.jpg"
+          }
+       ],
+       "productComments":3,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":29,
+       "productName":"White Ceramic 6inch Planter pot with Gold and Grey Detailing and tree like decorative plant",
+       "productImage":"../images/products/product-thumbs/p29.jpg",
+       "productDescription":"White Ceramic 6in Planters with Drainage for Flowers, Succulents, with Gold and Grey Detailing, Mid Century Modern Home Garden Decor",
+       "fullDescription":"Simple Modern Style: These elegant ceramic planters embrace multiple interior trends, with minimalist, and geometric influences combining modern and vintage style. Drawing on nostalgic influences, this design is highly contemporary but truly timeless. Indoor Decor Highlights: Gold planters for indoor plants are very versatile and match well with your furniture and add a special condition to your living room, bedroom, balcony, kitchen dining room, apartment, office, etc. Keep this different stylish white plant pot for yourself or unique housewarming gift. Suitable for Small Plants: 5in/6in white and gold ceramic desk planter is perfect to display your favorite tabletop plant, succulent plants, cacti, herb or small flower buds together with taller indoor planter and small flower pots. Plants shown not included. Material and Size: Created with sturdy ceramic and painted beautifully with gold and grey. Large - 5.5 H ï¿½ 5.9 D; Small - 4.3 H ï¿½ 4.7 D. Each mid century planter has hole on the bottom to allow water to help your plant stays healthy. Plants shown not included.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":27.99
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":57,
+             "imagePath":"../images/products/product-thumbs/pt29.1.jpg"
+          },
+          {
+             "id":58,
+             "imagePath":"../images/products/product-thumbs/pt29.2.jpg"
+          }
+       ],
+       "productComments":114,
+       "productRating":4.5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":30,
+       "productName":"6.5 inch White Ceramic Flower Pot with Gold and Grey Detailing and decorative bonsai tree",
+       "productImage":"../images/products/product-thumbs/p30.jpg",
+       "productDescription":"White Ceramic Flower Pot Garden Planters 6.5inch Pack 2 Indoor, Plant Containers with Gold and Grey Detailing",
+       "fullDescription":"CERAMIC WITH GOLD DETAILING This set of eccentric planters is a statement piece for all homes. Created with sturdy ceramic and painted beautifully with gold and grey, these planters are not only breathtaking to look at but amazingly functional as well. DIFFERENT SIZES AND SHAPE Each set comes two completely different pieces but utilizes the same colors so it harmonizes just perfectly! We have a larger, round shaped planter, perfect for taller plants and then a smaller, asymmetrical piece for your smaller legumes. DIMENSION Grey--W: 6.5ï¿½ï¿½ H: 6ï¿½ï¿½; Gold--W: 5.4ï¿½ï¿½ H: 5.1ï¿½ï¿½ OUTDOOR AND INDOOR USE These planters will look good inside your modern home and outside on the patio as well. They are very versatile and stand out from all the others. 100% SATISFACTION We provide full refunds and returns if thereï¿½s any problem after receiving the product.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":59,
+             "imagePath":"../images/products/product-thumbs/pt30.1.jpg"
+          },
+          {
+             "id":60,
+             "imagePath":"../images/products/product-thumbs/pt30.2.jpg"
+          }
+       ],
+       "productComments":14,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":31,
+       "productName":"Christmas Elk Deer Ceramic Flowerpot with devorative plant",
+       "productImage":"../images/products/product-thumbs/p31.jpg",
+       "productDescription":"Christmas Elk Deer Ceramic Flowerpot with devorative plant",
+       "fullDescription":"Multiple Usages - It can be placed on your office desk, bookshelf, dining table, balcony, garden, etc. Great for centerpiece decoration in party and event. Application - It goes well with succulents, small flowers and plants.Suitable for home, office and shops decoration. Perfect Gift - It is also a great gift to your friends who loves Micro-landscape plants or personal collection! Premium Material - Made of high quality material, Safe, non-toxic, and environment friendly. Super Creative - Beautiful and unique design,Perfect decoration for your room,fairy garden or terrarium.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":39
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":61,
+             "imagePath":"../images/products/product-thumbs/pt31.1.jpg"
+          },
+          {
+             "id":62,
+             "imagePath":"../images/products/product-thumbs/pt31.2.jpg"
+          }
+       ],
+       "productComments":80,
+       "productRating":3.8,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":32,
+       "productName":"Grey Ceramic Hexagonal Pattern Semi-Luster Surface Plant Pot with decorative flower",
+       "productImage":"../images/products/product-thumbs/p32.jpg",
+       "productDescription":"Ceramic Hexagonal Pattern Semi-Luster Surface Succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Dimension: 9.5 x 8.8 x 6.5cm / 3.75 x 3.45 x 2.5inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":63,
+             "imagePath":"../images/products/product-thumbs/pt32.1.jpg"
+          },
+          {
+             "id":64,
+             "imagePath":"../images/products/product-thumbs/pt32.2.jpg"
+          }
+       ],
+       "productComments":9,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":33,
+       "productName":"4 inch Ceramic Succulent Planter Pot with Bamboo Tray Indoor or Outdoor",
+       "productImage":"../images/products/product-thumbs/p33.jpg",
+       "productDescription":"4 inch Ceramic Succulent Planter Pot Modern Cactus Herb Flower Planters with Bamboo Tray Indoor or Outdoor",
+       "fullDescription":"Made of ceramic,the planter is of very good quality, with clear lines and a modern appearance that looks very elegant.Perfect for windowsills,desktops,kitchens,bathrooms, offices and bedrooms. Approximate Dimensions:4 inch x 4 inch(L x H).Plants are not included. Perfect drainage hole and bamboo tray provide a good environment for your plants to prevent soil from getting too wet.Really nice environment for growing succulents. Perfect display of live potted plants.Modern Geometric planters set perfect for succulent or fake succulent,small cactus,herb and flower,no concerns to put indoor or outdoor. Nice gift.The ceramic planter is well made,beautiful and stylish design,easy to store and clean.It makes an excellent gift for succulent lovers.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":22.99
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":65,
+             "imagePath":"../images/products/product-thumbs/pt33.1.jpg"
+          },
+          {
+             "id":66,
+             "imagePath":"../images/products/product-thumbs/pt33.2.jpg"
+          }
+       ],
+       "productComments":73,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":34,
+       "productName":"Matt black Ceramic Hexagonal Pattern Semi-Luster Surface Plant Pot with decorative flower",
+       "productImage":"../images/products/product-thumbs/p34.jpg",
+       "productDescription":"Ceramic Hexagonal Pattern Semi-Luster Surface Succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter",
+       "fullDescription":"Small Ceramic Plant Pots, Perfect for holding succulent, herbs and catus plants. Indoor Use, Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Pack of 1; Dimension: 9.5 x 8.8 x 6.5cm / 3.75 x 3.45 x 2.5inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":27.86
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":67,
+             "imagePath":"../images/products/product-thumbs/pt34.1.jpg"
+          },
+          {
+             "id":68,
+             "imagePath":"../images/products/product-thumbs/pt34.2.jpg"
+          }
+       ],
+       "productComments":23,
+       "productRating":4.1,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":35,
+       "productName":"Matte grey Ceramic Hexagonal Pattern Semi-Luster Surface Plant Pot with decorative cactus flower",
+       "productImage":"../images/products/product-thumbs/p35.jpg",
+       "productDescription":"Ceramic Hexagonal Pattern Semi-Luster Surface Succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Dimension: 9.5 x 8.8 x 6.5cm / 3.75 x 3.45 x 2.5inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":27.86
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":69,
+             "imagePath":"../images/products/product-thumbs/pt35.1.jpg"
+          },
+          {
+             "id":70,
+             "imagePath":"../images/products/product-thumbs/pt35.2.jpg"
+          }
+       ],
+       "productComments":65,
+       "productRating":4,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":36,
+       "productName":"2.2 Inch Container Planter Ceramic Flowing Glaze with cactus plant",
+       "productImage":"../images/products/product-thumbs/p36.jpg",
+       "productDescription":"2.2 Inch Container Planter Ceramic Flowing Glaze Plant Pot Cactus Plant Pot Flower Pot Perfect Gift Idea",
+       "fullDescription":"Ideal for adding a dash of refreshingly modern design to your home,Great Gift - this ceramic pot can serve a variety of purposes. Perfect gift for family and friends who love succulent plants with a green thumb or keep it in your own home for a touch of clean, modern style in your living space. Material:Ceramic(Made of top-quality clay and baked in high temperatures);Package content:5pcs*Pot. Approximate Size: 2.2 x 2.2 x 2 inch (L x W x H). A simple and sleek contemporary petite Beautifully glazed with elegant, attractive color plant pot.Gardening props, suitable for decorative gardening,desk,bookshelf,dinning table,living room,hosting room and everywhere. Decorations and plants are not included.Handmade products,color may vary.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":13.99
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":71,
+             "imagePath":"../images/products/product-thumbs/pt36.1.jpg"
+          },
+          {
+             "id":72,
+             "imagePath":"../images/products/product-thumbs/pt36.2.jpg"
+          }
+       ],
+       "productComments":120,
+       "productRating":3.7,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":37,
+       "productName":"Cute jar shape like Ceramic Succulent Pots with cactus plant",
+       "productImage":"../images/products/product-thumbs/p37.jpg",
+       "productDescription":"Cute Ceramic Succulent Pots, Mini Succulent Planter Plant Container with Bamboo Tray for Cactus Flower Home Garden office Desk Decoration Birthday Wedding Birthday Wedding",
+       "fullDescription":"Exquisite Workmanship - Created with sturdy ceramic, the mini succulent plant pot is applied by handmade printing and dyeing technology. Its exquisite workmanship ensures high product quality, so the plant container is burr-free and smooth to touch. Unique Appearance - The succulent planter pot looks super modern and trendy, beautifully painted with an elegant mixture of grey and white strips. The planter pot features in simple curves and elegant color matching will stand out in your living space because of its high aesthetic value. Scientific Design - A small drain hole at the bottom allows water to flow through the soil so your plant stays healthy. The durable bamboo tray is good for collecting excess water and soil spillage, keeping your space clean and tidy. Versatile Planter Pot - The cute planter can house your favorite mini succulents, herbs and small cacti, beautifully decorating windowsills, desktop, kitchen, living room, bedroom and office. It's also an ideal gift for family and friends on on Wedding, Birthday, Christmas, etc. Height: 7.5cm, Mouth Diameter: 6.2cm",
+       "price":{
+          "newPrice":0,
+          "oldPrice":9.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":73,
+             "imagePath":"../images/products/product-thumbs/pt37.1.jpg"
+          },
+          {
+             "id":74,
+             "imagePath":"../images/products/product-thumbs/pt37.2.jpg"
+          }
+       ],
+       "productComments":36,
+       "productRating":4.6,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":38,
+       "productName":"9CM Cement Serial Big Round Plant Pot with decorative sucuulent flower",
+       "productImage":"../images/products/product-thumbs/p38.jpg",
+       "productDescription":"9CM Cement Serial Big Round Sucuulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes Grey",
+       "fullDescription":"Made of cement, simple but amazing, supposed to be a wondeful gift for family or for friends. Perfect for displaying live plants such as succulents and cactus. A small hole at the bottom of the pot allows easy drainage. Pack of 1; Dimension: 10.8 x 10.8 x 5.2cm / 4.25 x 4.25 x 2Inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":13.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":75,
+             "imagePath":"../images/products/product-thumbs/pt38.1.jpg"
+          },
+          {
+             "id":76,
+             "imagePath":"../images/products/product-thumbs/pt38.2.jpg"
+          }
+       ],
+       "productComments":27,
+       "productRating":4.3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":39,
+       "productName":"6.5CM Cement Serial Small Round Plant Pot with decorative sucuulent flower",
+       "productImage":"../images/products/product-thumbs/p39.jpg",
+       "productDescription":"6.5CM Cement Serial Small Round Sucuulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes Grey",
+       "fullDescription":"Made of cement, simple but amazing, supposed to be a wondeful gift for family or for friends. Perfect for displaying live plants such as succulents and cactus. A small hole at the bottom of the pot allows easy drainage. Dimension: 8 x 8 x 4.9cm / 3 x 3 x 2Inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":77,
+             "imagePath":"../images/products/product-thumbs/pt39.1.jpg"
+          },
+          {
+             "id":78,
+             "imagePath":"../images/products/product-thumbs/pt39.2.jpg"
+          }
+       ],
+       "productComments":64,
+       "productRating":4.2,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":40,
+       "productName":"6.5CM Cement Serial Raised Plant Pot with decorative sucuulent flower and Bamboo Tray ",
+       "productImage":"../images/products/product-thumbs/p40.jpg",
+       "productDescription":"6.5CM Cement Serial Raised Sucuulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes With Bamboo Tray Grey",
+       "fullDescription":"Made of cement, simple but amazing, supposed to be a wondeful gift for family or for friends. Lovely gift item for any nature or gardening enthusiast,a well made bamboo tray perfectly prevent the water as well as the soil from leaking. A small hole at the bottom of the pot allows easy drainage. Dimension: 8 x 8 x 8cm / 3 x 3 x 3Inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":11.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":79,
+             "imagePath":"../images/products/product-thumbs/pt40.1.jpg"
+          },
+          {
+             "id":80,
+             "imagePath":"../images/products/product-thumbs/pt40.2.jpg"
+          }
+       ],
+       "productComments":34,
+       "productRating":4.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":41,
+       "productName":"6.5CM Cement Serial Raised Plant Pot with decorative cactus plant ",
+       "productImage":"../images/products/product-thumbs/p41.jpg",
+       "productDescription":"6.5CM Cement Serial Raised Sucuulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes Grey",
+       "fullDescription":"Made of cement, simple but amazing, supposed to be a wondeful gift for family or for friends. Perfect for displaying live plants such as succulents and cactus. A small hole at the bottom of the pot allows easy drainage. Dimension: 8 x 8 x 8cm / 3 x 3 x 3Inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":10.93
+       },
+       "category":[
+          {
+             "id":1,
+             "categoryName":"Plants"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":81,
+             "imagePath":"../images/products/product-thumbs/pt41.1.jpg"
+          },
+          {
+             "id":82,
+             "imagePath":"../images/products/product-thumbs/pt42.2.jpg"
+          }
+       ],
+       "productComments":2,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":42,
+       "productName":"10CM Ceramic White Square Plant Pot With Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/pt3.1.jpg",
+       "productDescription":"10CM Ceramic White Square Plant Pot With Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pot - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Dimension: 9.7 x 9.7 x 6.5cm / 3.8 x 3.8 x 2.5inch (L x W x H). Plant is NOT included with this product.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":7.50
+       },
+       "category":[
+          {
+             "id":2,
+             "categoryName":"Pots"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":83,
+             "imagePath":"../images/products/product-thumbs/pt3.2.jpg"
+          },
+          {
+             "id":84,
+             "imagePath":"../images/products/product-thumbs/pt3.3.jpg"
+          }
+       ],
+       "productComments":10,
+       "productRating":4.5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":43,
+       "productName":"7CM Ceramic White Jar Shape Design Plant Pot with bamboo tray",
+       "productImage":"../images/products/product-thumbs/pt4.2.jpg",
+       "productDescription":"CM Ceramic White Jar Shape Design Succulent Plant Pot/Cactus Plant Pot/Flower Pot with bamboo tray",
+       "fullDescription":"Small Ceramic Plant Pot - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Dimension: 7 x 7 x 5.1cm / 2.75 x 2.75 x 2inch (L x W x H). Plant is NOT included with this product.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":9.50
+       },
+       "category":[
+          {
+             "id":2,
+             "categoryName":"Pots"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":85,
+             "imagePath":"../images/products/product-thumbs/pt4.3.jpg"
+          },
+          {
+             "id":86,
+             "imagePath":"../images/products/product-thumbs/pt4.4.jpg"
+          }
+       ],
+       "productComments":7,
+       "productRating":3.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":44,
+       "productName":"8CM Ceramic White Misalignment Traiangle Design Plant Pot With Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/pt7.2.jpg",
+       "productDescription":"8CM Ceramic White Misalignment Traiangle Design Succulent Plant Pot/Cactus Plant Pot With Bamboo Tray Package",
+       "fullDescription":"Mini Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. Notice: Plants are not included. Package Content: mini pot with bamboo tray. A small Drain Hole on the Bottom. Dimension: 8 x 8 x 4.9cm / 3.15 x 3.15 x 1.9inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":9.50
+       },
+       "category":[
+          {
+             "id":2,
+             "categoryName":"Pots"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":87,
+             "imagePath":"../images/products/product-thumbs/pt7.3.jpg"
+          },
+          {
+             "id":88,
+             "imagePath":"../images/products/product-thumbs/pt7.4.jpg"
+          }
+       ],
+       "productComments":12,
+       "productRating":4.2,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":45,
+       "productName":"16.5CM Ceramic White Rectangle Succulent Plant Pot/Cactus Plant Pot With Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/pt19.2.jpg",
+       "productDescription":"16.5CM Ceramic White Rectangle Succulent Plant Pot/Cactus Plant Pot With Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pot - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Dimension: 16.5 x 8.9 x 5.9cm / 6.5 x 3.5 x 2.3inch (L x W x H). Plant is NOT included with this product.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":11.50
+       },
+       "category":[
+          {
+             "id":2,
+             "categoryName":"Pots"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":89,
+             "imagePath":"../images/products/product-thumbs/pt19.3.jpg"
+          },
+          {
+             "id":90,
+             "imagePath":"../images/products/product-thumbs/pt19.4.jpg"
+          }
+       ],
+       "productComments":10,
+       "productRating":4.8,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":46,
+       "productName":"9.2CM White Ceramic Contemporary Lozenge Pattern Plant Pot with Hexagon Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/pt23.1.jpg",
+       "productDescription":"9.2CM White Ceramic Contemporary Lozenge Pattern Succulent Plant Pot/Cactus Plant Pot Container with Hexagon Bamboo Tray",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding miniature succulent, herb and cactus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Housewarming, Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Tray. Dimension: 9.2 x 9.2 x 5.7 cm (L x W x H). Plant is NOT included with this product.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":10.50
+       },
+       "category":[
+          {
+             "id":3,
+             "categoryName":"Pot Holders"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":91,
+             "imagePath":"../images/products/product-thumbs/pt23.2.jpg"
+          },
+          {
+             "id":92,
+             "imagePath":"../images/products/product-thumbs/pt23.3.jpg"
+          }
+       ],
+       "productComments":4,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":47,
+       "productName":"3pcs Owl Pots with 3 Tier Bamboo Saucers Stand Holder",
+       "productImage":"../images/products/product-thumbs/h1.jpg",
+       "productDescription":"3pcs Owl Pots with 3 Tier Bamboo Saucers Stand Holder - White Modern Decorative Ceramic Flower Planter Plant Pot with Drainage",
+       "fullDescription":"Ideal for live potted plants, but can also be used to hold other decorative items from around your home, including seashells and potpourri. Additionally, you can use it as a candle holder. Natural Bamboo Trays High Quality Ceramic : The pots baked in high temperatures feature superior hardness, strength and wear resistance. With a small hole on the bottom for drainage and packed with bamboo tray for the water and soil not flowing out. Save Space. Ladders up, 3 layers save much space, while give you a clean look. Size: bamboo tray: 7.8in(20cm)L*4.3in(11cm)W*6.2in(16cm)H, Planter: 2.7in(7cm) Diameter, 2.36in(6cm)H. Attractive owl pots with 3 tiger bamboo stand are suitable for decorative gardening / desk / bookshelf / dinning table / living room / hosting room / cabinet / counter and everywhere. Adorable animal planter is good gifts choice for kids, parents, friends, schoolmates or colleague for any festival.",
+       "price":{
+          "newPrice":17,
+          "oldPrice":20
+       },
+       "category":[
+          {
+             "id":3,
+             "categoryName":"Pot Holders"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":93,
+             "imagePath":"../images/products/product-thumbs/h1.1.jpg"
+          },
+          {
+             "id":94,
+             "imagePath":"../images/products/product-thumbs/h1.2.jpg"
+          }
+       ],
+       "productComments":48,
+       "productRating":4.6
+    },
+    {
+       "id":48,
+       "productName":"3pcs Planter Pots Container with 3 Tier Bamboo Tray",
+       "productImage":"../images/products/product-thumbs/h2.jpg",
+       "productDescription":"LANKER 3.25 Inch Round White Ceramic Succulent Planter Pots Modern Cactus Pots Container with 3 Tier Bamboo Tray, Pack of 3 (Round 3.25 Inch)",
+       "fullDescription":"Perfect for displaying live miniature plants such as succulents, herb and small cacti. 3 pack 3.25'' small round ceramic succulent planters come with 3 tier 8'' tall bamboo stand. Modern style and saves space. Perfect greening decorations for home, garden, office and anywhere. Each planter is with a draining hole at the bottom for plants health. Plants and decorations are not included.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":17.89
+       },
+       "category":[
+          {
+             "id":3,
+             "categoryName":"Pot Holders"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":95,
+             "imagePath":"../images/products/product-thumbs/h2.3.jpg"
+          },
+          {
+             "id":96,
+             "imagePath":"../images/products/product-thumbs/pt22.2.jpg"
+          }
+       ],
+       "productComments":60,
+       "productRating":4.3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":49,
+       "productName":"Mkono Ceramic Planter with Metal Stand",
+       "productImage":"../images/products/product-thumbs/h3.jpg",
+       "productDescription":"Mkono Ceramic Planter with Metal Stand Tabletop Succulent Pot Modern Plant Holder",
+       "fullDescription":"BEAUTIFUL INDOOR DECORATION -Perfect way to add color and liven up your living space with indoor plants such as small succulents, air plants, mini cactus, and other artificial plants and flowers. MODERN GEOMETRIC PLANTERS-Stylish of white ceramic with copper metal wire designed in geometric shape, perfect for adding modern decorative touch and some natural greenery to your indoor spacegive you a sense of creativity. Simple and modern style. PERFECT OFFICE DECORATION-Can be used to store office items and other things. Suitable to store office items and small home supplies as well,The several flower pot containers can be placed to better decorate and beautify your room. ELEGANT DESIGN-Unique and decorative indoor planter, perfect for adding modern decorative touch and some natural greenery to your indoor space. APPLICABLE SCENES-Home green plant landscape decoration, office desktop decoration, cafe desktop decoration, etc.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16
+       },
+       "category":[
+          {
+             "id":3,
+             "categoryName":"Pot Holders"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":97,
+             "imagePath":"../images/products/product-thumbs/h3.1.jpg"
+          },
+          {
+             "id":98,
+             "imagePath":"../images/products/product-thumbs/h3.2.jpg"
+          }
+       ],
+       "productComments":2,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":50,
+       "productName":"Wall Hanging Planters Geometric Wall Decor Container",
+       "productImage":"../images/products/product-thumbs/h6.jpg",
+       "productDescription":"Wall Hanging Planters,Sundlight 1PCS Hanging Planter Geometric Wall Decor Container - Great For Succulent Plants, Air Plant,Mini Cactus,Faux Plants and More",
+       "fullDescription":"Size: (approx.):S: 12*18.5 cm/ 4.72*7.28 in;L: 23.5*38 cm/ 9.25*14.96 in.Color:Black,White. These have two color and two size for you choose.Perfect match with air plant, give you a sense of creativity. Simple and modern style, Let your life become elegant and comfortable. This hanging Air Plant is made of electroplating and acrylic.The plants are not included.Fashion and popular, Finland traditional geometric ornaments. Multipurpose use.Can be suspended from the ceiling to float in the breeze, or embraced as an air plant holder. Also can be nailed on the wall and put some air plant as a deco. Believe that it will bring you a different feeling. (Without Rope,You can use your rope and hanging it). Fill with small plants,or other decorative objects and use as an eye-catching decorative accent for any space. Ideal for home, office, garden, wedding or holidays as a deco. It helps beautify and purify your place, a good decoration for you.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":9.99
+       },
+       "category": [
+          {
+             "id":3,
+             "categoryName":"Pot Holders"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":99,
+             "imagePath":"../images/products/product-thumbs/h6.1.jpg"
+          },
+          {
+             "id":100,
+             "imagePath":"../images/products/product-thumbs/h6.2.jpg"
+          }
+       ],
+       "productComments":8,
+       "productRating":4.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":51,
+       "productName":"Wall Hanging ceramic pot + gold Iron frame",
+       "productImage":"../images/products/product-thumbs/h6.jpg",
+       "productDescription":"Hanging Planter Vase Geometric Wall Decor Container Great For Succulent Plants Air Plant Mini Cactus Faux And More Concrete Resin Copper Flower Basket Ceramic Jar Rural Life Office Balcony Pot Hangers (ceramic pot+gold Iron frame)",
+       "fullDescription":"SIMPLE AND ELEGANT Stylish combination of white geometric ceramic and copper metal,a nice wall decoration craft without any discordant for living room,office, etc. VERSATILE Suitable for plants like small succulents, air plants, mini cactus, artificial flowers and more ATTRACTIVE MODERN GEOMETRIC DESIGN Designed for city, it is the original geometric wall vessel with a simple, elegant design that can be used to add a modern decorative touch and some natural greenery to your indoor space FILL WITH SMALL PLANTS or other decorative objects and use as an eye-catching decorative accent for any space. Ideal for home, office, garden, wedding or holidays as a deco. It helps beautify and purify your place, a good decoration for you SIZE: (APPROX.)Pot: diagonal: 12.6 cm/4.96 in; side to side: 11.4 cm/4.49 in; length: 8 cm/3.15 in?Iron frame: mouth: 13 cm/ 5.12 in; bottom: 16 cm/ 6.30 in; height: 16 cm/ 6.30 in",
+       "price":{
+          "newPrice":0,
+          "oldPrice":9.99
+       },
+       "category":[
+          {
+             "id":3,
+             "categoryName":"Pot Holders"
+          }
+       ],
+       "productGallery": [
+          {
+             "id":101,
+             "imagePath":"../images/products/product-thumbs/h6.1.jpg"
+          },
+          {
+             "id":102,
+             "imagePath":"../images/products/product-thumbs/h6.2.jpg"
+          }
+       ],
+       "productComments":8,
+       "productRating":4.9,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":52,
+       "productName":"White Ceramic Cone Shape Succulent Planter Pot with Brass Base Stand",
+       "productImage":"../images/products/product-thumbs/h6.jpg",
+       "productDescription":"6 inch Modern Design White Ceramic Cone Shape Succulent Planter Pot with Brass Base Stand",
+       "fullDescription":"Minimalist ceramic cone desktop planter pot with metal brass stand. Features a removable vase with a modern line design and brass colored tripod base. Perfect for plants, fresh produce or office supplies. A small hole in the bottom of the planter allows water to naturally drain. Plants not included. Approximate Dimensions (in inches): Overall - 5.59 H X 6.0 Diameter. Pot - 3.95 H x 5.98 W (opening); 1.5 W (base). Stand - 3.9 H x 4.53 W.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":9.99
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":103,
+             "imagePath":"../images/products/product-thumbs/h6.1.jpg"
+          },
+          {
+             "id":104,
+             "imagePath":"../images/products/product-thumbs/h6.2.jpg"
+          }
+       ],
+       "productComments":18,
+       "productRating":4.7,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":53,
+       "productName":"2.6inch Ceramic Owl Succulent Cactus Planter Pot Set with Free Bamboo Tray Full Color Set of 6",
+       "productImage":"../images/products/product-thumbs/s1.jpg",
+       "productDescription":"2.6inch Ceramic Owl Succulent Cactus Planter Pot Set with Free Bamboo Tray Full Color Set of 6, Home and Office Decoration Desktop Windowsill Bonsai Pots Gift for Gardener Wedding Birthday Christmas",
+       "fullDescription":"Small Ceramic Plant Pots - Perfect for holding miniature succulent, herbs and cactus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with durable Bamboo Trays. Pack of 6; Dimension: 2.6inch in Diameter x 2.1inch in Height.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":29.99
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":105,
+             "imagePath":"../images/products/product-thumbs/pts1.1.jpg"
+          },
+          {
+             "id":106,
+             "imagePath":"../images/products/product-thumbs/pts1.2.jpg"
+          }
+       ],
+       "productComments":105,
+       "productRating":4,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":54,
+       "productName":"Set of 3 Mini Favor Flower Pots with decorative succulet and cactus plants",
+       "productImage":"../images/products/product-thumbs/s2.jpg",
+       "productDescription":"2.5/2.75/2.75 inch Ceramic Succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter, Pack of 6",
+       "fullDescription":"Set of 3 Mini Favor Flower Pots for herbs,succulent or cactus plants, and more. Each Ceramic Flower pot is is about 2.75 inches Diameter. Bring clean lines and minimalist style to your home decor with this modern ceramic planter box.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":28.55
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":107,
+             "imagePath":"../images/products/product-thumbs/pts2.1.jpg"
+          },
+          {
+             "id":108,
+             "imagePath":"../images/products/product-thumbs/pts2.2.jpg"
+          }
+       ],
+       "productComments":145,
+       "productRating":4.3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":55,
+       "productName":"Set of 3 Mini Owl Pattern Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s3.jpg",
+       "productDescription":"2.75 inch Ceramic Owl Pattern Succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter Full Color, Pack of 3",
+       "fullDescription":"Perfect for holding succulent or cactus plants. Lovely gift item for any nature or gardening enthusiast. A small hole in the bottom allows water to flow through the soil so your plant stays healthy. Aprroximate Size:2.75x2.75x2.25inch(L x W x H)",
+       "price":{
+          "newPrice":0,
+          "oldPrice":32.05
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":109,
+             "imagePath":"../images/products/product-thumbs/pts3.1.jpg"
+          },
+          {
+             "id":110,
+             "imagePath":"../images/products/product-thumbs/pts3.2.jpg"
+          }
+       ],
+       "productComments":145,
+       "productRating":4.3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":56,
+       "productName":"Set of 6 Mini Ceramic Wooden Pattern Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s4.jpg",
+       "productDescription":"6 in Set 3 Inch Ceramic Wooden Pattern Succulent Plant Pot Cactus Plant Pot Flower Pot Container Planter Gift Idea",
+       "fullDescription":"Ideal for adding a dash of refreshingly modern design to your home,Great Gift - this ceramic pot can serve a variety of purposes. Perfect gift for family and friends who love succulent plants with a green thumb or keep it in your own home for a touch of clean, modern style in your living space. Material: Ceramic(Made of top - quality clay and baked in high temperatures);Package content: 6pcs*Pot. Approximate Size: 2.8 x 2.8 x 2.5 inch (L x W x H).Please refer to the picture. ~A simple and sleek contemporary petite Beautifully glazed with elegant, attractive color plant pot.Gardening props, suitable for decorative gardening, desk, bookshelf, dinning table, living room, hosting room and everywhere.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":20.75
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":111,
+             "imagePath":"../images/products/product-thumbs/pts4.1.jpg"
+          },
+          {
+             "id":112,
+             "imagePath":"../images/products/product-thumbs/pts4.2.jpg"
+          },
+          {
+             "id":113,
+             "imagePath":"../images/products/product-thumbs/pts4.3.jpg"
+          },
+          {
+             "id":114,
+             "imagePath":"../images/products/product-thumbs/pts4.4.jpg"
+          },
+          {
+             "id":115,
+             "imagePath":"../images/products/product-thumbs/pts4.5.jpg"
+          },
+          {
+             "id":116,
+             "imagePath":"../images/products/product-thumbs/pts4.6.jpg"
+          }
+       ],
+       "productComments":147,
+       "productRating":4.6,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":57,
+       "productName":"Set of 6 Mini Ceramic Plant Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s5.jpg",
+       "productDescription":"Set of 6 Ceramic Plant Pots Succulent Planter Flower Pot Container, 3 Inches Hexagon",
+       "fullDescription":"Ceramic planters with water drainage hole in the bottom are great for planting succulent plants and cactus. These hexagonal shape pots can be displayed in different combination to present your beautiful plants, stand in rows or in a circle. Made of high quality clay and baked in high temperatures. As they're handmade, each one varies slightly on surface. Package included a group of 6 unique color planters, look elegant and cute. Adorable Size: 2 5/8inch in diameter, 1 1/2inch in height. Please note that plants are not included in these items",
+       "price":{
+          "newPrice":0,
+          "oldPrice":22
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":117,
+             "imagePath":"../images/products/product-thumbs/pts5.1.jpg"
+          },
+          {
+             "id":118,
+             "imagePath":"../images/products/product-thumbs/pts5.2.jpg"
+          }
+       ],
+       "productComments":99,
+       "productRating":4.7,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":58,
+       "productName":"Set of 3 Mini Ceramic Square Plant Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s6.jpg",
+       "productDescription":"7CM Ceramic Modern Mini Square Succulent Plant Pot/Cactus Plant Pot Container with Rectangular Tray - Full Color Set of 3",
+       "fullDescription":"Tiny Ceramic Plant Pots - Perfect for holding miniature succulent, herb and cactus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Housewarming, Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Ceramic Tray. Pack of 3; Dimension: 7 x 7 x 5 cm (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":21.99
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":119,
+             "imagePath":"../images/products/product-thumbs/pts6.1.jpg"
+          },
+          {
+             "id":120,
+             "imagePath":"../images/products/product-thumbs/pts6.2.jpg"
+          }
+       ],
+       "productComments":44,
+       "productRating":4.2,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":59,
+       "productName":"Set of 3 Mini Ceramic Korean Style Plant Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s7.jpg",
+       "productDescription":"Korean Style Ceramic Succulent Pots Flower Cactus Planter with Bamboo Tray Pack of 3",
+       "fullDescription":"Hand Made succulent pot of Top-Quality ceramic material, lightweight and durable, Good Quality Guaranteed. Korea Style - Classic color combines with unique outlook bringing you with a modern, stylish Korea style; Simple appearance makes it a better present of your lovely plants, perfectly decorate your living space. Scientific Design - Wide mouth with a small drainage hole in the bottom, do good to succulent plants' rhizomatous respiration and prevent the roots from rotting; Pack with durable bamboo saucer to keep your desktop clean. Plants' Paradise - It's an ideal home for succulents, cactus, herb and moss, etc. It's not only the gift for your family or your friends, but also the gift for your little plants. No doubt your plants will like this home very much. Product Specification - Small Ceramic Pot x 3 ( Height: 8cm , Diameter: 9cm ), Matching Bamboo Tray x 3;",
+       "price":{
+          "newPrice":0,
+          "oldPrice":24.99
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":121,
+             "imagePath":"../images/products/product-thumbs/pts7.1.jpg"
+          },
+          {
+             "id":122,
+             "imagePath":"../images/products/product-thumbs/pts7.2.jpg"
+          },
+          {
+             "id":123,
+             "imagePath":"../images/products/product-thumbs/pts7.3.jpg"
+          }
+       ],
+       "productComments":83,
+       "productRating":4.3,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":60,
+       "productName":"Set of 6 Mini Ceramic Flowing glaze Black&White Base Serial Set of Plant Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s8.jpg",
+       "productDescription":"6.5CM Ceramic Flowing glaze Black&White Base Serial Set Succulent Plant Pot/Cactus Plant Pot Flower Pot/Container/Planter Pack of 6",
+       "fullDescription":"Hand Made succulent pot of Top-Quality ceramic material, lightweight and durable, Good Quality Guaranteed; Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Chrismas, etc. A small Drain Hole on the Bottom. Pack of 6; Approximate Dimension: 6 x 6 x 5.5cm / 2.35 x 2.35 x 2.15inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":26.95
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":124,
+             "imagePath":"../images/products/product-thumbs/pts8.1.jpg"
+          },
+          {
+             "id":125,
+             "imagePath":"../images/products/product-thumbs/pts8.2.jpg"
+          }
+       ],
+       "productComments":86,
+       "productRating":4.5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":61,
+       "productName":"Set of 4 Modern White Ceramic Mini Potted Artificial Succulent Plants",
+       "productImage":"../images/products/product-thumbs/s9.jpg",
+       "productDescription":"Set of 4 Modern White Ceramic Mini Potted Artificial Succulent Plants",
+       "fullDescription":"Eco friendly PVC artificial succulent plants, set of 4 with white ceramic pots. American pastoral style,  looks real, no need to DIY, can keep for a long time Perfect for household decoration, holiday gifts,displays,photography props. Brings the beauty and natural looking greenery of succulent plants into your space without the mess or maintenanc. Approximate Dimensions: Flowerpot 5x5x4.5cm/1.97x1.97x1.77inch.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":16.95
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":126,
+             "imagePath":"../images/products/product-thumbs/pts9.1.jpg"
+          },
+          {
+             "id":127,
+             "imagePath":"../images/products/product-thumbs/pts9.2.jpg"
+          }
+       ],
+       "productComments":86,
+       "productRating":4.5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":62,
+       "productName":"Set of 3 Ice Cream Serial Modern Ceramic Mini plant pots with decorative Succulent Plants and Bamboo Trays",
+       "productImage":"../images/products/product-thumbs/s10.jpg",
+       "productDescription":"6cm Ice Cream Serial Modern Succulent Cactus Plant Pots Flower Pots Planters Containers Window Boxes Full Colors with Bamboo Trays Pack of 3",
+       "fullDescription":"Mini Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. Indoor Use - Ideal for windowsill and office table decoration; Perfect Gift for Wedding, Birthday, Christmas, etc. A small Drain Hole on the Bottom; Pack with Bamboo Trays. Pack of 3; Dimension: 6 x 6 x 5.8cm / 2.35 x 2.35 x 2.3inch (L x W x H).",
+       "price":{
+          "newPrice":0,
+          "oldPrice":37.94
+       },
+       "category":[
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":128,
+             "imagePath":"../images/products/product-thumbs/pts10.1.jpg"
+          },
+          {
+             "id":129,
+             "imagePath":"../images/products/product-thumbs/pts10.2.jpg"
+          }
+       ],
+       "productComments":10,
+       "productRating":5,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    },
+    {
+       "id":63,
+       "productName":"Set of 4 Modern Ceramic Ancient Style Serial Plant Pots with decorative succulet plants",
+       "productImage":"../images/products/product-thumbs/s11.jpg",
+       "productDescription":"3 inch Ceramic Ancient Style Serial No.1/2/3/4 Set Succulent Plant Pot Cactus Plant Pot Flower Pot Container Planter Package 1 Pack of 4",
+       "fullDescription":"A small planter pot made of ceramic materials in the ancient style.Perfect for holding succulent or cactus plants. A small hole in the bottom allows water to flow through the soil so your plant stays healthy. Lovely gift item for any nature or gardening enthusiast.",
+       "price":{
+          "newPrice":0,
+          "oldPrice":28.95
+       },
+       "category": [
+        {
+            "id":1,
+            "categoryName":"Plants"
+         },
+        {
+            "id":2,
+            "categoryName":"Pots"
+         },
+          {
+             "id":4,
+             "categoryName":"Sets"
+          }
+       ],
+       "productGallery":[
+          {
+             "id":130,
+             "imagePath":"../images/products/product-thumbs/pts11.1.jpg"
+          },
+          {
+             "id":131,
+             "imagePath":"../images/products/product-thumbs/pts11.2.jpg"
+          },
+          {
+             "id":132,
+             "imagePath":"../images/products/product-thumbs/pts11.3.jpg"
+          }
+       ],
+       "productComments":148,
+       "productRating":4.8,
+       "shippingPrice": 8,
+       "deliveryTime": "10 -20 days"
+    }
+ ]
